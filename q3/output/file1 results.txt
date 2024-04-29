@@ -1,0 +1,10 @@
+Tour: 18 10 2 14 13 16 7 6 4 17 12 15 8 5 9 3 19 1 20 11 18
+Length: 237
+
+numberIterations = 150
+chemicalExponent = 1.0
+distanceExponent = 1.0
+initialDeposit = 0.1
+depositAmount = 1.0
+decayRate = 0.5
+seed = 510
