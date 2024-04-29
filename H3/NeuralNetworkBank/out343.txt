@@ -1,0 +1,11 @@
+undetermined 
+medium 
+undetermined 
+high 
+medium 
+medium 
+medium 
+undetermined 
+
+Average error: 0.09288169695641983
+4 Hidden nodes, 15000 iterations, 0.3 learning rate, 2375 seed

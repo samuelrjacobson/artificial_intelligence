@@ -1,0 +1,8 @@
+undetermined 
+medium 
+undetermined 
+high 
+high 
+medium 
+low 
+low 
