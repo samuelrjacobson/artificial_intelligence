@@ -1,0 +1,6 @@
+zero 
+zero 
+one 
+zero 
+two 
+one 

@@ -1,0 +1,10 @@
+zero 
+zero 
+one 
+one 
+two 
+two 
+
+Average error: 0.047403044688910594
+
+171 hidden nodes, 1000 iterations, 0.5 learning rate, 2375 seed

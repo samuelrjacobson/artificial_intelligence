@@ -1,0 +1,51 @@
+file5:
+
+2
+3
+6
+9
+12
+13
+14
+16
+17
+19
+Total buying price: 172
+Total profit: 220
+
+200 population size, 20 string length, 1000 iterations, 0.5 crossover rate, 0.1 mutation rate, 4329 seed
+
+file 6:
+
+1
+4
+5
+6
+7
+9
+12
+14
+16
+20
+21
+22
+23
+27
+28
+29
+32
+34
+36
+37
+39
+40
+41
+43
+44
+45
+47
+50
+Total buying price: 1354
+Total profit: 1837
+
+200 population size, 50 string length, 1000 iterations, 0.5 crossover rate, 0.1 mutation rate, 4329 seed

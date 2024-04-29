@@ -1,0 +1,11 @@
+2
+3
+6
+9
+11
+12
+14
+16
+17
+Total buying price: 152
+Total profit: 188
